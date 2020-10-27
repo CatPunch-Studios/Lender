@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36650e4f-2229-4b66-af4b-198eeffa2b4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jP4AJ3D0ZbiBDWKrGzhdByaPkm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web">
+      <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36650e4f-2229-4b66-af4b-198eeffa2b4f" name="Default Changelist" comment="" />
+      <created>1603692247808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603692247808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1603718270763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603718270763" />
+    <state width="742" height="164" key="GridCell.Tab.0.bottom" timestamp="1603763364553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603763364553" />
+    <state width="742" height="164" key="GridCell.Tab.0.center" timestamp="1603763364553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="164" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603763364553" />
+    <state width="742" height="164" key="GridCell.Tab.0.left" timestamp="1603763364553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="164" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603763364553" />
+    <state width="742" height="164" key="GridCell.Tab.0.right" timestamp="1603763364553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="164" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603763364553" />
+    <state x="82" y="0" key="SettingsEditor" timestamp="1603718462687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="82" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603718462687" />
+    <state x="402" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1603758317084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="197" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603758317084" />
+    <state x="209" y="137" key="new project wizard" timestamp="1603698038877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="137" key="new project wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603698038877" />
+    <state x="254" y="204" width="863" height="364" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603718276634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="254" y="204" width="863" height="364" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603718276634" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1603721725476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1603721725476" />
+  </component>
+</project>

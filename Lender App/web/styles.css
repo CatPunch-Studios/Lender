@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+* {
+font-size: 62.5%
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: GT Walsheim Pro;
+  text-color: #001011;
+}
+/* -- Palette --
+#252422 - Black
+#156064 - Dark Turquoise
+#F6F6F6 - Near White
+#2DC2A7 - Emerald Green
+#A6E7CF - Light Green
+*/
+
+h1 {
+    text-align: center;
+   padding-top: 1rem;
+}
+#output {
+  padding: 2rem;
+  text-align: center;
+}
+
+#loginPanel {
+    border-radius: 0.4rem;
+    height: 50vh;
+    margin-right: 36rem;
+    margin-left: 36rem;
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+input {
+    padding: 1rem;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    margin: 0.6rem;
+    text-align: center;
+    width: 18rem;
+}
+
+button {
+    padding: 1rem;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    margin: 4rem;
+    text-align: center;
+    width: 10rem;
+    background-color: #2DC2A7;
+}
+
+#panelTitle {
+    font-size: 1.8rem;
+}
+
+#outputText {
+  padding: 2rem;
+  text-align: center;
+}
+
+table {
+    border-radius: 0.1rem;
+    margin-right: 36rem;
+    margin-left: 36rem;
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+th, td{
+  text-align: left;
+  padding: 0.2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#creditText {
+  padding: 2rem;
+  text-align: center;
+}
