@@ -1,5 +1,4 @@
 import 'dart:html';
-
 import 'dart:svg';
 
 // Establish Elements
@@ -8,16 +7,14 @@ InputElement passwordInput;
 ButtonElement loginButton;
 ButtonElement signUpButton;
 DivElement loginPanel;
-TextElement ouputText;
-// Table content
-TableCellElement content_debtorID;
-TableCellElement content_debtorTitle;
-TableCellElement content_debtorFirstName;
-TableCellElement content_debtorLastName;
-TableCellElement content_debtorPhoneNumber;
-TableCellElement content_debtorEmail;
-TableCellElement content_debtorCurrency;
-
+TextElement outputText;
+TableColElement debtorID;
+TableColElement debtorTitle;
+TableColElement debtorFirstName;
+TableColElement debtorLastName;
+TableColElement debtorPhone;
+TableColElement debtorEmail;
+TableColElement debtorCurrency;
 
 // Define user
 class User {
@@ -100,13 +97,13 @@ void Login(Event e) {
     var debtor1 = Debtor(
         0, 'mr', 'first name', 'last name', '0123-456-789', 'email@email.com');
     querySelector('#outputText').text = debtor1.printInfo();
+    querySelector('#debtorID').innerHtml = debtor1.id.toString();
+    querySelector('#debtorTitle').innerHtml = debtor1.title.toString();
+    querySelector('#debtorFirstName').innerHtml = debtor1.firstName.toString();
+    querySelector('#debtorLastName').innerHtml = debtor1.lastName.toString();
+    querySelector('#debtorPhone').innerHtml = debtor1.phone.toString();
+    querySelector('#debtorEmail').innerHtml = debtor1.email.toString();
+    querySelector('#debtorCurrency').innerHtml = debtor1.currency.toString();
 
-    querySelector('#debtorID').innerText           =   debtor1.id as String;
-    querySelector('#debtorTitle').innerText        =   debtor1.title;
-    querySelector('#debtorfirstName').innerText    =   debtor1.firstName;
-    querySelector('#debtorlastName').innerText     =   debtor1.lastName;
-    querySelector('#debtorPhoneNumber').innerText  =   debtor1.phone;
-    querySelector('#debtorEmail').innerText        =   debtor1.email;
-    querySelector('#debtorCurrency').innerText     =   debtor1.currency;
   }
 }
